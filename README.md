@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohit-sundar, a sophomore at Amrita Vishwa Vidyapeetham, Coimbatore 
+- 👋 Hi, I’m @rohit-sundar, a student at Amrita Vishwa Vidyapeetham, Coimbatore 
 - 👀 I’m interested in Cyber Security, Artificial Intelligence, Operating Systems, CTFs and much more!
 - 🌱 I’m currently exploring the domains of Binary Exploitation, Reverse Engineering and Web Exploitation!
 - 📑 I’m working on Evolutionary Malware, Knowledge Graphs, RDFS, and GraphDB
