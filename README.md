@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">👀 Interested in cybersecurity, offensive security, exploit development, operating systems, computer networking, artificial intelligence, and much more!<br>🌱 Currently into binary exploitation, reverse engineering and web security.<br>🤖 Working on LLM security, generative AI, and agentic AI security.<br>🏴 I also play CTFs occasionally.<br>⚔️ Aspiring red teamer focused on finding bugs, zero-day vulnerabilities, developing exploits, and emulating adversaries.</p>
+<br clear="both">
+
+<img align="right" height="300" src="./hacker.gif"  />
+
+###
+
+<p align="left">👀 Interested in cybersecurity, offensive security, exploit development, operating systems, computer networking, artificial intelligence, and much more!<br><br>🌱 Currently into binary exploitation, reverse engineering and web security.<br><br>🤖 Working on LLM security, generative AI, and agentic AI security.<br><br>🏴 I also play CTFs occasionally.<br><br>⚔️ Aspiring red teamer focused on finding bugs, zero-day vulnerabilities, developing exploits, and emulating adversaries.<br><br>🤝 Always open to collaborating and learning from the community!</p>
 
 ###
 
