@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="300" src="./hacker.gif"  />
 
 ###
