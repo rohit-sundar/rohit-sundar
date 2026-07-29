@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="250" src="./hacker.gif"  />
+<img align="right" height="250" src="./assets/hacker.gif"  />
 
 ###
 
